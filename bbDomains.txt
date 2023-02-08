@@ -77,6 +77,7 @@ apps
 apptest
 archive
 arcsight
+artifactory
 as2test
 asana
 assembla
@@ -120,7 +121,6 @@ awssolutions
 awssupport
 awsvirtualization
 axosoft
-azur-emanagement
 azure
 azure-cloud
 azure-computing
@@ -687,6 +687,7 @@ jbehave
 jboss
 jenkins
 jenkinsx
+jfrog
 jira
 jmeter
 juniper
@@ -698,6 +699,7 @@ kanban
 kapacitor
 kaseya
 kaspersky
+katalon
 kibana
 knowbe4
 kubernetes
@@ -817,6 +819,7 @@ nagiosxi
 nas
 navicat
 neer
+nessus
 net-admin
 netadmin
 netapp
@@ -825,11 +828,13 @@ netsparker
 netwitness
 network
 networks
+new
 new-dev
 new-relic
 newdev
 newrelic
 newtest
+nexus
 nginx
 ngrok
 nightly
@@ -854,6 +859,7 @@ opensiem
 openstack
 openvpn
 operations
+opsgenie
 opssec
 opssecurity
 optimization
@@ -978,7 +984,9 @@ rabbitmq
 rackspace
 radware
 rancher
+ranorex
 rapid7
+raygun
 rds
 recovery
 red
@@ -991,6 +999,7 @@ regression
 release
 reliability
 reliability-testing
+relic
 remote
 repl
 repl.it
@@ -1091,6 +1100,7 @@ solarwinds
 solr
 solution
 sonarqube
+sonatype
 sonicwall
 sophos
 sourcetrail
@@ -1150,6 +1160,7 @@ support
 suricata
 svn
 swagger
+swarm
 swift
 symantec
 sys-admin
@@ -1268,6 +1279,7 @@ testmanagement
 testnet
 testnet-seed
 testng
+testops
 testplan
 testportal
 testresult
@@ -1417,4 +1429,5 @@ zendesk
 zenoss
 zephyr
 zoho
+zookeeper
 zoom
