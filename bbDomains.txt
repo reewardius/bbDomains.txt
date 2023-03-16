@@ -1,3 +1,26 @@
+0
+001
+002
+003
+01
+02
+03
+1
+2
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+3
+4
+5
+6
+7
+8
+9
 academy
 acceptance
 acceptance-testing
@@ -189,6 +212,7 @@ adsense
 adserver
 adtest
 advisor
+ae
 affiliate
 agent
 agent-management
@@ -374,6 +398,7 @@ appdevworker
 appdjango-dev
 appdocker-dev
 appdynamics
+appengine
 appengine-dev
 appenv-dev
 appenv-devops
@@ -437,6 +462,8 @@ appsecurity-dev
 appsecurity-devops
 appservices
 appsonarqube-dev
+appspot
+appspot.com
 appspring-dev
 appstack
 appstack-dev
@@ -522,6 +549,7 @@ archives-view
 arcsight
 artifact-repository
 artifactory
+artifacts
 as2test
 asana
 assembla
@@ -769,6 +797,7 @@ betafeature
 betapreview
 betapreview-env
 betapreviewenv
+betas
 betashowcase
 betashowroom
 betatest
@@ -776,6 +805,8 @@ betatesting
 big-data-analytics
 big-data-storage
 big-ip
+bigquery
+bigtable
 billing
 billing-info
 billing-portal
@@ -831,6 +862,7 @@ broadcast
 browser
 browserstack
 btrfs
+bucket
 bug
 bug-tracker
 bug-tracking
@@ -885,6 +917,7 @@ cdn
 cdn1
 cdn2
 cdn3
+ce
 celery
 celoxis
 center
@@ -892,6 +925,7 @@ ceph
 cert
 certificate-authority
 certification
+cf
 charles
 chat
 chat-application
@@ -965,6 +999,7 @@ cloudcomputing
 cloudconsulting
 cloudflare
 cloudfront
+cloudfunction
 cloudhosting
 cloudinfrastructure
 cloudmanagement
@@ -982,6 +1017,7 @@ cloudsupport
 cloudtechnology
 cloudvirtualization
 cloudwatch
+club
 clubhouse
 cluster
 cluster-management
@@ -1035,6 +1071,9 @@ collaboration
 collaboration-platform
 collectd
 collectl
+com
+com.au
+common
 communication
 community
 community2
@@ -1049,6 +1088,7 @@ components
 composer
 compute
 compute-engine
+computeengine
 conf
 conference
 confidential
@@ -1096,6 +1136,7 @@ connectwise
 console
 consul
 consultancy
+consultants
 consulting
 contact
 contact-us
@@ -1211,7 +1252,10 @@ databaseadmin
 databasecontrol
 datadev
 datadog
+dataflow
 datahub
+dataproc
+datastore
 db
 db-admin
 db-test
@@ -1539,11 +1583,13 @@ disaster-recovery-procedure
 disaster-recovery-testing
 disasterrecovery
 disasterrecoveryplan
+discount
 discovery
 disk
 distributed-system
 django
 django-dev
+dl
 dmsetup
 dns
 dns-admin
@@ -1781,6 +1827,7 @@ email2
 email3
 email4
 emailadmin
+emails
 emc
 employee
 employee-portal
@@ -1794,6 +1841,7 @@ encryption-management
 end
 endpoint
 endpoint-detection
+endpoints
 eng
 engine
 enhance
@@ -1804,6 +1852,7 @@ env-development
 environment
 ephi
 erp
+es
 eset
 esm
 etcd
@@ -1841,6 +1890,7 @@ exploration
 exploratory-testing
 explore
 explore-community
+export
 external
 extrahop
 f5
@@ -1898,12 +1948,16 @@ files-upload
 files-version
 files-view
 fileserver
+fileshare
+filestore
 filezilla
 finance
 financial-analytics
+firebase
 fireeye
 firefly
 firehose
+firestore
 firewall
 firewall-management
 firewalld
@@ -1960,6 +2014,7 @@ ftps
 ftptest
 functional
 functional-testing
+functions
 fusion
 fwd
 gallery
@@ -1989,6 +2044,7 @@ gcp-firestore
 gcp-iam
 gcp-infra
 gcp-infrastructure
+gcp-logs
 gcp-management
 gcp-migration
 gcp-redis
@@ -2005,6 +2061,7 @@ gcpcloud
 gcpcomputing
 gcpconsulting
 gcpinfrastructure
+gcplogs
 gcpmanagement
 gcpmigration
 gcpsecurity
@@ -2112,12 +2169,14 @@ graphs-marketplace
 gravityzone
 graylog
 groups
+gs
 gsuite
 gtr-dev
 guard
 guest
 guides
 gunicorn
+gw
 hadoop
 hana
 handmade
@@ -2172,6 +2231,8 @@ hyper
 hyper-v
 i
 i-test
+iaas
+iam
 ibm
 ibm-qradar
 ibmtivoli
@@ -2192,6 +2253,7 @@ images2
 images3
 images4
 imap
+img
 imperva-secure-sphere
 implementation
 improve
@@ -2419,6 +2481,7 @@ job-scheduler
 jobs
 jobs2
 jobsearch
+js
 juniper
 juniper-srx
 junit
@@ -2547,6 +2610,7 @@ kindle
 kinesis
 knowbe4
 krb5admin
+kube
 kube-apiserver
 kube-argo
 kube-calico
@@ -2574,6 +2638,7 @@ kube-vault
 kubeadm
 kubeadm-config
 kubectl
+kubeengine
 kubefed
 kubelet
 kubernetes
@@ -2585,6 +2650,7 @@ kubernetes-etcd
 kubernetes-kubelet
 kubernetes-proxy
 kubernetes-scheduler
+kubernetesengine
 kvm
 lab
 lab-env
@@ -2721,6 +2787,7 @@ mail5
 mailadmin
 mailbackup
 mailtest
+main
 maintenance-portal
 malware-analysis
 malwarebytes
@@ -2730,6 +2797,7 @@ management
 manager
 manual
 manual-testing
+manuals
 map
 mariadb
 mariadbadmin
@@ -2738,6 +2806,7 @@ marketing
 marketing-analytics
 marketplace
 masscan
+mattermost
 maven
 maven-dev
 mavenlink
@@ -2754,6 +2823,7 @@ meistertask
 members
 memcached
 memcachedadmin
+memorystore
 mercurial
 mesh
 message
@@ -2800,6 +2870,7 @@ minikube-dev
 minio
 miro
 mirror
+ml
 mob
 mobaxterm
 mobile
@@ -3054,6 +3125,7 @@ orchestration
 orchestration-platform
 order
 orders
+org
 organization
 origin
 osquery
@@ -3063,6 +3135,7 @@ owa
 owncloud
 p
 pa
+paas
 pacemaker
 pacemakerd
 packages
@@ -3086,6 +3159,7 @@ partners3
 partners4
 partnership
 password
+passwords
 patch
 patch-management
 patches
@@ -3129,6 +3203,7 @@ php-fpm
 phpadmin
 phpmyadmin
 phpmyadmin-dev
+pics
 pictures
 pii
 pinpoint
@@ -3226,6 +3301,7 @@ prereleaseenv
 prereleases
 prereleases-env
 prereleasesenv
+presentations
 press
 prestagetest
 prestaging-test
@@ -3647,6 +3723,7 @@ resilience
 resiliency
 resource
 resource-management
+resources
 response
 rest
 restic
@@ -3686,6 +3763,7 @@ rss-feed
 rsync
 rsyslog
 rt
+rtdb
 rtsp
 ruby-dev
 ruby-devops
@@ -3696,6 +3774,7 @@ s3
 s3-buckets
 s3cmd
 s3console
+saas
 safeguard
 sagemaker
 sales
@@ -3732,6 +3811,7 @@ scaletest
 scaling
 scheduler
 scm
+screenshots
 script
 script-collection
 script-data
@@ -3863,6 +3943,7 @@ settings
 sftp
 sftpd
 share
+shared
 sharepoint
 sharing
 shield
@@ -3890,6 +3971,7 @@ sipinternal
 site
 siteadmin
 sitechecklist
+sitemaps
 sitetest
 sketch
 slack
@@ -3948,6 +4030,7 @@ sophos-xg-firewall
 source
 source-branch
 source-changes
+source-code
 source-code-management
 source-commit
 source-control
@@ -3963,6 +4046,7 @@ sourcetree
 sp-test
 space
 spamassassin
+spanner
 specflow
 specs
 speed
@@ -4010,6 +4094,7 @@ stable
 stable-app
 stack-dev
 stack-devops
+stackdriver
 staff
 staff-ops
 staff-portal
@@ -4458,6 +4543,7 @@ trials
 trials-env
 tripwire
 tripwire-ip360
+troposphere
 troubleshoot
 troubleshooting
 troubleshooting-hub
@@ -4506,6 +4592,8 @@ usability-testing
 usb
 user-acceptance
 user-acceptance-testing
+userpictures
+users
 uwsgi
 ux
 ux-api
@@ -4584,6 +4672,7 @@ versions
 video
 videoconference
 videodirect
+videos
 vip
 virtual
 virtualbox
@@ -4650,6 +4739,7 @@ webpack
 webpack-dev
 webproxy
 webroot
+website
 websitecpanel
 websphere
 webstorm
@@ -4701,6 +4791,7 @@ workspace-dev
 workspace-env
 workstation
 worry-free
+wp
 wp-admin
 wp-admin2
 wp-content
