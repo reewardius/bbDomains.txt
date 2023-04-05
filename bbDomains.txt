@@ -2079,6 +2079,7 @@ ecs
 edge
 ediscovery
 education
+edx
 efficiency
 elastalert
 elastic
@@ -3630,12 +3631,12 @@ onedesk
 onelogin
 online
 online-storage
-open edx
 opencart
 opencensus
 opendkim
 opendlp
 opendmarc
+openedx
 openfaas
 openldap
 openldapadmin
