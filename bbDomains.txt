@@ -41,6 +41,7 @@ admin-dev
 admin-eu
 admin-eu2
 admin-mail
+admin-portal
 admin-test
 admin-us
 admin-us2
@@ -3312,6 +3313,7 @@ manageengine
 management
 management-dashboard
 manager
+manager-portal
 manual
 manual-testing
 manuals
