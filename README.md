@@ -11,3 +11,7 @@ Integration:
 > cp mksub /usr/local/bin
 > mksub -d tesla.com -w bbDomains.txt -l 2 -o subs
 ```
+
+```
+https://pentester.land/blog/subdomains-enumeration-cheatsheet/
+```
