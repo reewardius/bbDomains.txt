@@ -1,3 +1,16 @@
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
 2008
 2009
 2010
@@ -21,30 +34,17 @@
 2028
 2029
 2030
-1
-2
 3
+39
+3d
+3g
 4
+4k
 5
 6
 7
 8
 9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-39
-3d
-3g
-4k
 aaa
 aaaa
 aaron
@@ -370,6 +370,7 @@ all.edge
 all.videocdn
 allegro
 alliance
+allura
 alma
 alpha
 alpha-env
@@ -768,6 +769,7 @@ artifactory
 artifacts
 arts
 arwen
+arx
 as
 as1
 as2
@@ -1131,6 +1133,7 @@ balancing
 balder
 bali
 baltimore
+bamb
 bambi
 bamboo
 banana
@@ -1152,6 +1155,7 @@ basecamp
 bastion
 batman
 baza
+bazaar
 bb
 bbb
 bbs
@@ -1294,6 +1298,7 @@ bitbucket
 bitbucket-dev
 bitdefender
 bitium
+bitkeeper
 bitrix
 bitrix24
 biz
@@ -1328,6 +1333,7 @@ blogger
 blogs
 blogtest
 blogx.dev
+bloodhound
 bloom
 blue
 blueprint
@@ -1405,6 +1411,7 @@ btas
 btrfs
 bts
 bucket
+buddy
 budget
 buffalo
 bug
@@ -1467,6 +1474,7 @@ builder.cp
 builder.cpanel
 buildkite
 buildlab
+buildmaster
 builds
 builds-instance
 buildserver
@@ -1493,6 +1501,7 @@ bw
 bwc
 by
 bz
+bzr
 c
 c-n7k-n04-01.rz
 c-n7k-v03-01.rz
@@ -1578,6 +1587,7 @@ case-studies
 cash
 casino
 casper
+cassandra
 cassra
 castor
 cat
@@ -1674,6 +1684,7 @@ checklists
 checkout
 checkrelay
 checksrv
+checkstyle
 cheetah
 chef
 chef-client
@@ -1779,11 +1790,13 @@ classified
 classified-data
 classified-systems
 classifieds
+clearquest
 cleveland
 clever
 cli
 click
 click3
+clickhouse
 clicks
 clickup
 client
@@ -1873,6 +1886,7 @@ cn
 cnc
 co
 cobalt
+cobbler
 cobra
 cockpit
 coco
@@ -1916,6 +1930,7 @@ coderush
 codeship
 codetel
 codetest
+codeville
 codex
 coding
 cody
@@ -2084,6 +2099,7 @@ container-train
 container-vault
 container-warehouse
 container-yard
+containerd
 containerhub
 containers
 contao
@@ -2169,6 +2185,7 @@ creative
 creativity
 credit
 crew
+cri-o
 cricket
 crime
 critical
@@ -2185,6 +2202,7 @@ cross
 crossplane
 crown
 cruise
+cruisecontrol
 crux
 crystal
 cs
@@ -2226,6 +2244,7 @@ customer-service-dashboard
 customers
 cv
 cvs
+cvsnt
 cw
 cwa
 cwc
@@ -2265,6 +2284,7 @@ dance
 daniel
 dansguardian
 dante
+darcs
 darkstat
 darktrace
 dart
@@ -2359,6 +2379,7 @@ dc1
 dc2
 dcc
 dcp
+dcvs
 dd
 dds
 de
@@ -3000,6 +3021,7 @@ documents
 dodge
 dodo
 dog
+dokuwiki
 dolphin
 dom
 domain
@@ -3396,6 +3418,7 @@ f3
 f5
 f5-big-ip
 fa
+fabric
 face
 facebook
 factory
@@ -3498,6 +3521,7 @@ finance
 finance-dashboard
 financial-analytics
 find
+findbugs
 fiona
 fios
 fire
@@ -3540,11 +3564,13 @@ fly
 fm
 fms
 focus
+fogbugz
 foo
 food
 football
 ford
 forecasting
+foreman
 forest
 forestdnszones
 forex
@@ -3569,6 +3595,7 @@ forum4
 forums
 forumtest
 forward
+fossil
 foto
 fotos
 foundation
@@ -3692,6 +3719,7 @@ games
 gamification
 gamma
 gandalf
+ganglia
 ganymede
 gapps
 garfield
@@ -3936,6 +3964,7 @@ gitlab-x509
 gitlab-zeek
 gitlab-zipkin
 gitlabdev
+gitorious
 gizmo
 gk
 gke
@@ -4023,6 +4052,7 @@ graylog
 green
 greetings
 grid
+groovy
 group
 groups
 groupware
@@ -4049,6 +4079,7 @@ guest
 guide
 guidelines
 guides
+gump
 gunicorn
 guru
 gvt
@@ -4149,6 +4180,7 @@ hirlevel
 history
 history-timeline
 hit
+hitask
 hk
 hkcable
 hkps.pool
@@ -4235,6 +4267,7 @@ hu
 hub
 hubspot
 huddle
+hudson
 human
 humanresources
 humanresourcesops
@@ -4242,6 +4275,7 @@ humanresourcesportal
 humor
 hunter
 hw70f395eb456e
+hwmon
 hybrid
 hydra
 hydrogen
@@ -4404,6 +4438,7 @@ insight
 insights
 insights2
 insomnia
+instabug
 install
 installation-testing
 instant-messaging
@@ -4658,6 +4693,7 @@ ja
 jabber
 jack
 jackson
+jacoco
 jade
 jaguar
 jakarta
@@ -4697,6 +4733,7 @@ jim
 jira
 jitsi
 jjc
+jk
 jl
 jm
 jmeter
@@ -4720,6 +4757,7 @@ jp
 jpkc
 js
 jsc
+juju
 jump
 jumpcloud
 junior
@@ -4854,8 +4892,10 @@ k8s-vault
 k8s-weave
 k8s-zookeeper
 kafka
+kairosdb
 kalender
 kaliningrad
+kallithea
 kaluga
 kanban
 kapacitor
@@ -4982,6 +5022,7 @@ kubefed
 kubeflow
 kubelet
 kubenav
+kuber
 kubernetes
 kubernetes-anywhere
 kubernetes-apiserver
@@ -5146,6 +5187,7 @@ livnmi
 lk
 ll
 lm
+lm-sensors
 lms
 ln
 lnk
@@ -5260,6 +5302,7 @@ lv
 lvm
 lw
 lx
+lxd
 lync
 lync-access
 lyncaccess
@@ -5344,6 +5387,7 @@ mail9
 mailadmin
 mailbackup
 mailbox
+mailcatcher
 mailer
 mailer1
 mailer2
@@ -5450,6 +5494,7 @@ mcafee-epo
 mcc
 mccoy
 mco
+mcollective
 mcp
 mcq-media-01.iutnb
 mcs
@@ -5502,6 +5547,7 @@ mercury
 merlin
 mes
 mesh
+mesos
 message
 message-broker
 message-queue
@@ -5666,6 +5712,7 @@ mon
 monday
 monday.com
 money
+mongo
 mongodb
 mongodb-dev
 mongodbadmin
@@ -5681,6 +5728,7 @@ monitoring-preview
 monitoring-site
 monitoringpreview
 monkey
+monotone
 monster
 montana
 month
@@ -5819,6 +5867,7 @@ n7pdjh4
 na
 na.pool
 nagano
+naginator
 nagios
 nagios-log-server
 nagios.org
@@ -6139,6 +6188,7 @@ ocn
 ocs
 october
 octopus
+octopussy
 ocw
 odin
 odn
@@ -6195,6 +6245,7 @@ opel
 open
 opencart
 opencensus
+opendistro
 opendkim
 opendlp
 opendmarc
@@ -6205,6 +6256,7 @@ openfire
 openid
 openldap
 openldapadmin
+openproject
 openshift
 opensiem
 opensource
@@ -6212,6 +6264,7 @@ openssh
 openssl
 openstack
 openswan
+opentsdb
 openvas
 openvpn
 openvpnadmin
@@ -6279,6 +6332,7 @@ osiris
 osquery
 oss
 ossec
+osticket
 ota
 other
 otrs
@@ -6311,6 +6365,7 @@ pac
 pacemaker
 pacemakerd
 pacific
+package
 packages
 packagist-registry
 packer
@@ -6371,6 +6426,7 @@ patent-dashboard
 patents
 path
 patrick
+patroni
 paul
 paula
 pay
@@ -6451,6 +6507,7 @@ pgadmin
 pgp
 pgsql
 ph
+phabricator
 phantom
 pharmacy
 phd
@@ -6918,6 +6975,7 @@ purple
 push
 putty
 puzzle
+pvcs
 pw
 pw.openvpn
 pwa
@@ -7019,6 +7077,7 @@ quora
 quote
 quotes
 quran
+qvcs
 r
 r1
 r2
@@ -7060,8 +7119,10 @@ ras
 rating
 raven
 raygun
+razor
 rb
 rc
+rcs
 rcsntx
 rd
 rdiff-backup
@@ -7374,6 +7435,7 @@ rosa
 rose
 rostov
 roundcube
+roundup
 route53
 router
 router1
@@ -7410,7 +7472,9 @@ ruby-devops
 rubygems-local
 rubygems-registry
 rubymine
+rudder
 rugby
+runc
 runner
 rus
 russia
@@ -7558,9 +7622,11 @@ scale-lab
 scale-test
 scaletest
 scaling
+scalyr
 scan
 scanner
 scc
+sccs
 schedule
 scheduler
 schedules
@@ -7971,6 +8037,8 @@ solo
 solr
 solution
 solutions
+sonar
+sonarcube
 sonarqube
 sonarqube-dev
 sonatype
@@ -8010,6 +8078,7 @@ sp1
 sp2
 spa
 space
+spacewalk
 spain
 spam
 spam1
@@ -8124,6 +8193,8 @@ stable-app
 stack-dev
 stack-devops
 stackdriver
+stackengine
+stackstorm
 staff
 staff-ops
 staff-portal
@@ -8164,6 +8235,8 @@ stargate
 stars
 start
 starwars
+stas
+stash
 stat
 stat1
 statamic
@@ -8304,6 +8377,7 @@ sunset
 sunshine
 super
 superadmin
+supervisor
 supervisord
 suporte
 supplier
@@ -8313,6 +8387,7 @@ support
 support1
 support2
 support3
+supportworks
 surf
 suricata
 survey
@@ -8475,6 +8550,7 @@ tenable-securitycenter
 tender
 tenders
 tennis
+teraform
 terminal
 terra
 terraform
@@ -8984,6 +9060,7 @@ updates2
 upgrade
 upgrade-testing
 upgrades
+upguard
 upl
 upload
 upload2
@@ -9049,6 +9126,7 @@ validip
 van
 vancouver
 vanilla
+variant
 varnish
 varnishd
 varonis
@@ -9090,6 +9168,7 @@ vendor-dashboard
 venture
 venus
 vera
+verdaccio
 verification
 verification-testing
 verify
@@ -9152,6 +9231,7 @@ vietnam
 view
 viking
 vintage
+violations
 violet
 vip
 vip1
@@ -9236,6 +9316,7 @@ vsnl
 vsp
 vstagingnew
 vt
+vtiger
 vulcan
 vulnerability-management
 vulnerability-scanning
@@ -9537,6 +9618,7 @@ workinprogress
 workinprogresstest
 workops
 works
+worksection
 workshop
 workshop-center
 workshop-hub
@@ -10053,6 +10135,7 @@ young
 youraccount
 yournet
 youth
+youtrack
 youtube
 yp
 yx
@@ -10081,6 +10164,7 @@ zimperium
 zinc
 zion
 zip
+zipkin
 zj
 zm
 zmail
