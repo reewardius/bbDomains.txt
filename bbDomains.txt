@@ -4448,6 +4448,7 @@ instrumentation
 insurance
 int
 int-beta
+int-db
 int-debug
 int-experiment
 int-local
@@ -8041,6 +8042,7 @@ sonar
 sonarcube
 sonarqube
 sonarqube-dev
+sonartype
 sonatype
 song
 sonia
