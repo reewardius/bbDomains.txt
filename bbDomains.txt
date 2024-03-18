@@ -115,6 +115,7 @@ adm2
 adm3
 admanager
 admin
+admin-api
 admin-dev
 admin-eu
 admin-eu2
@@ -465,6 +466,7 @@ apex
 apg
 aphrodite
 api
+api-admin
 api-checker
 api-dev
 api-devops
